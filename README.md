@@ -1,2 +1,2 @@
-# Research-data-from-my-telegram
-Data visualization from my telegram using python.
+# Researching data from my telegram
+In this work, I analyzed my behavior in the telegram. Using information about messages, groups, chats from my telegram, I made a visualization of some questions that statistically show data about me as a user of this messenger.
