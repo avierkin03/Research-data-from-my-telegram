@@ -23,7 +23,6 @@ In this work I analyzed my behavior in the telegram. Using information about mes
 ![image](https://user-images.githubusercontent.com/93377331/166219823-e65cc50d-e2e7-4e07-9095-5a6a02fe9957.png)
 ![image](https://user-images.githubusercontent.com/93377331/166219830-73d047bf-0c01-4a90-a813-aab4b63540b0.png)
 ![image](https://user-images.githubusercontent.com/93377331/166219755-3e6982e4-c8ea-4421-941d-b2baf20e5fc9.png)
-![image](https://user-images.githubusercontent.com/93377331/166219767-b7c0e229-be95-4a67-afcf-aba64383ec2e.png)
 ![image](https://user-images.githubusercontent.com/93377331/166219801-977f9b45-905a-4b75-811a-32f28a3784c7.png)
 
 
