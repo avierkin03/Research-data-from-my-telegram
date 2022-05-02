@@ -6,6 +6,7 @@ In this work I analyzed my behavior in the telegram. Using information about mes
   2. get your credentials https://my.telegram.org/apps
   3. set credentials (api_id, api_hash) in config/config.json (can be based on the config_example.json)
   4. Get *'0_download_dialogs_list.py'* and *'1_download_dialogs_data.py'*
+  5. Download all dialogues *`python 0_download_dialogs_list.py --dialogs_limit -1`*
   6. Download dialogues data *`python 1_download_dialogs_data.py --dialogs_ids -1 --dialog_msg_limit 100000`* <br>
   7. Specify where you saved *'dialogs_data_all.csv'* and *'dialogs_users_all.csv'* in *'code.ipynb'* <br>
     `DIALOGS_MERGED_DATA_ALL_PATH =` <br>
