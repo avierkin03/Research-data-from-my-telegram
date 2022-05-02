@@ -9,8 +9,8 @@ In this work I analyzed my behavior in the telegram. Using information about mes
   5. Download all dialogues *`python 0_download_dialogs_list.py --dialogs_limit -1`*
   6. Download dialogues data *`python 1_download_dialogs_data.py --dialogs_ids -1 --dialog_msg_limit 100000`* <br>
   7. Specify where you saved *'dialogs_data_all.csv'* and *'dialogs_users_all.csv'* in *'code.ipynb'* <br>
-    `DIALOGS_MERGED_DATA_ALL_PATH = "your path"` <br>
-    `DIALOGS_MERGED_DATA_USERS_ALL_PATH = "your path"`
+    `DIALOGS_MERGED_DATA_ALL_PATH = "/your path/dialogs_data_all.csv"` <br>
+    `DIALOGS_MERGED_DATA_USERS_ALL_PATH = "/your path/dialogs_users_all.csv"`
 
 
 ## Some visualization examples
