@@ -1,5 +1,5 @@
 # Researching data from my telegram
-In this work I analyzed my behavior in the telegram. Using information about messages, groups, chats from my telegram, I made a visualization of some questions that statistically show data about me as a user of this messenger (file *'code.ipynb'*).
+In this work I analyzed my behavior in the telegram. Using information about messages, groups, chats from my telegram, I made a visualization of some questions that statistically show data about me as a user of this messenger (file *'my_research.ipynb'*).
 ## Instruction to reproduce
 *To collect your Telegram data*:
   1. install dependencies *`pip install -r requirements.txt`*
@@ -8,7 +8,7 @@ In this work I analyzed my behavior in the telegram. Using information about mes
   4. Get *'0_download_dialogs_list.py'* and *'1_download_dialogs_data.py'*
   5. Download all dialogues *`python 0_download_dialogs_list.py --dialogs_limit -1`*
   6. Download dialogues data *`python 1_download_dialogs_data.py --dialogs_ids -1 --dialog_msg_limit 100000`* <br>
-  7. Specify where you saved *'dialogs_data_all.csv'* and *'dialogs_users_all.csv'* in *'code.ipynb'* <br>
+  7. Specify where you saved *'dialogs_data_all.csv'* and *'dialogs_users_all.csv'* in *'my_research.ipynb'* <br>
     `DIALOGS_MERGED_DATA_ALL_PATH = "/your path/dialogs_data_all.csv"` <br>
     `DIALOGS_MERGED_DATA_USERS_ALL_PATH = "/your path/dialogs_users_all.csv"`
 
